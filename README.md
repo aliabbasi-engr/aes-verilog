@@ -1,1 +1,1 @@
-# aes-verilog
+# Advanced Encryption Standard (AES) Verilog Module
